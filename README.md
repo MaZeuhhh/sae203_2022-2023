@@ -5,4 +5,4 @@ This is the readme file. To download the pack of commands and modules just type 
 
 git clone https://github.com/c0rwin-exe/sae203_2022-2023.git
 
-Then you will download a zip package which you can unzip and discover the commands.
+Unzip then and discover the commands.
